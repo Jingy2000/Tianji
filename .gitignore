@@ -17,3 +17,7 @@ run/cache/
 version.txt
 test/knowledges/llamaindex/cache
 cache/*
+
+.venv
+luxun/corpus
+.DS_Store
