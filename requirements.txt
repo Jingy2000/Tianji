@@ -12,3 +12,4 @@ langchain_community==0.2.14
 sentence-transformers
 openai
 notebook
+matplotlib
